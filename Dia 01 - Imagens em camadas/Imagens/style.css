@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    transform: rotate(-30deg) skew(25deg) scale(0.5);
+    background: rgba(0, 0, 0, 0.15);
+    transition: 0.5s;
+}
+
+.card:hover img:nth-child(4){
+    transform: translate(160px, -160px);
+}
+
+.card:hover img:nth-child(3){
+    transform: translate(120px, -120px);
+    opacity: 0.8;
+}
+
+.card:hover img:nth-child(2){
+    transform: translate(80px, -80px);
+    opacity: 0.6;
+}
+
+.card:hover img:nth-child(1){
+    transform: translate(40px, -40px);
+    opacity: 0.4;
+}
+
+.card img {
+    width: 100%;
+    position: absolute;
+    transition: 0.5s;
+}
