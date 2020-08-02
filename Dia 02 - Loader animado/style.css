@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: verdana;
+    background-color: rgba(0,0,0,0.9);
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.text {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    color: #FFF;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    line-height: 350px;
+    font-size: 2.5em;
+    background: transparent;
+    box-shadow: 0 0 25px rgba(255, 255, 255, 0.25)
+}
+
+.loader {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    box-shadow: 0 3.5px 0 #FFF;
+    background: transparent;
+    animation: animate 1.5s linear infinite;
+}
+
+/*Animation*/
+@keyframes animate {
+    0%
+    {
+        transform: rotate(0deg);
+    }
+    100%
+    {
+        transform: rotate(360deg);
+    }
+}
