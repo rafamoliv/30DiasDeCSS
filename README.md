@@ -23,13 +23,14 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 * O projeto deve ser concluído até 23:59
 
+# Desafios
 
 * [Dia 01 - Imagem em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01 - Imagem em camadas](./Gifs/day01)
+![Dia 01 - Imagem em camadas](Gifs/day01.gif)
 
 [Meu codigo](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2001%20-%20Imagens%20em%20camadas)
 
@@ -46,7 +47,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
-![Dia 02 - Loader animado](./Gifs/day02)
+![Dia 02 - Loader animado](Gifs/day02.gif)
 
 [Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2002%20-%20Loader%20animado)
 
