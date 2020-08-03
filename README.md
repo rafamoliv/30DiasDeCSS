@@ -27,9 +27,10 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 * [Dia 01 - Imagem em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
+* [Dia 03 - Mudança de cor de texto entre divs](#id03)
 
 
-##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
+##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
 
 [Meu codigo](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2001%20-%20Imagens%20em%20camadas)
@@ -53,6 +54,16 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 ##### O que foi aplicado
 
+* animations
+
+##  Desafio dia 03 - Mudança de cor de texto entre divs <a name="id03"></a>
+![Dia 03 - Mudança de cor de texto entre divs](Gifs/day03.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2002%20-%20Loader%20animado)
+
+##### O que foi aplicado
+
+* CSS Overflow
 * animations
 
 ## Gostou da ideia? 
