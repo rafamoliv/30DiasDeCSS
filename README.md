@@ -59,7 +59,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 03 - Mudança de cor de texto entre divs <a name="id03"></a>
 ![Dia 03 - Mudança de cor de texto entre divs](Gifs/day03.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2002%20-%20Loader%20animado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2003%20-%20Mudan%C3%A7a%20de%20cor%20de%20texto%20entre%20divs)
 
 ##### O que foi aplicado
 
