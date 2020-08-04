@@ -69,7 +69,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 04 - Botão com efeito <a name="id04"></a>
 ![Dia 04 - Botão com efeito](Gifs/day04.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2003%20-%20Mudan%C3%A7a%20de%20cor%20de%20texto%20entre%20divs)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2004%20-%20Bot%C3%A3o%20com%20efeito)
 
 ##### O que foi aplicado
 
