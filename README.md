@@ -30,6 +30,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 03 - Mudança de cor de texto entre divs](#id03)
 * [Dia 04 - Botão com efeito](#id04)
 * [Dia 05 - Efeito pulsar](#id05)
+* [Dia 06 - Efeito lightning em textos](#id06)
 
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
@@ -89,6 +90,16 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 * animations
 * transforms
+
+##  Desafio dia 06 - Efeito lightning em textos <a name="id06"></a>
+![Dia 06 - Efeito lightning em textos](Gifs/day06.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2005%20-%20Efeito%20pulsar)
+
+##### O que foi aplicado
+
+* animations
+* nth-child ()
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
