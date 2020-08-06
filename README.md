@@ -94,7 +94,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 06 - Efeito lightning em textos <a name="id06"></a>
 ![Dia 06 - Efeito lightning em textos](Gifs/day06.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2005%20-%20Efeito%20pulsar)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2006%20-%20Efeito%20lightning%20em%20textos)
 
 ##### O que foi aplicado
 
