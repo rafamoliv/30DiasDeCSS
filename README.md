@@ -102,9 +102,9 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * nth-child ()
 
 ##  Desafio dia 07 - Preloader animado <a name="id07"></a>
-![Dia 07 - Preloader animado](Gifs/day06.gif)
+![Dia 07 - Preloader animado](Gifs/day07.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2006%20-%20Efeito%20lightning%20em%20textos)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2007%20-%20Preloader%20animado)
 
 ##### O que foi aplicado
 
