@@ -31,7 +31,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 04 - Botão com efeito](#id04)
 * [Dia 05 - Efeito pulsar](#id05)
 * [Dia 06 - Efeito lightning em textos](#id06)
-
+* [Dia 07 - Preloader animado](#id07)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -93,6 +93,16 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 ##  Desafio dia 06 - Efeito lightning em textos <a name="id06"></a>
 ![Dia 06 - Efeito lightning em textos](Gifs/day06.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2006%20-%20Efeito%20lightning%20em%20textos)
+
+##### O que foi aplicado
+
+* animations
+* nth-child ()
+
+##  Desafio dia 07 - Preloader animado <a name="id07"></a>
+![Dia 07 - Preloader animado](Gifs/day06.gif)
 
 [Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2006%20-%20Efeito%20lightning%20em%20textos)
 
