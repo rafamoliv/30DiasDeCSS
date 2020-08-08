@@ -32,6 +32,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 05 - Efeito pulsar](#id05)
 * [Dia 06 - Efeito lightning em textos](#id06)
 * [Dia 07 - Preloader animado](#id07)
+* [Dia 08- Coração pulsando](#id08)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -110,6 +111,17 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 * animations
 * nth-child ()
+
+##  Desafio dia 08- Coração pulsando <a name="id08"></a>
+![Dia 08- Coração pulsando](Gifs/day08.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2007%20-%20Preloader%20animado)
+
+##### O que foi aplicado
+
+* animations
+* ::before
+* ::after
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
