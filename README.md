@@ -115,7 +115,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 08- Coração pulsando <a name="id08"></a>
 ![Dia 08- Coração pulsando](Gifs/day08.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2007%20-%20Preloader%20animado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2008%20-%20Cora%C3%A7%C3%A3o%20pulsando)
 
 ##### O que foi aplicado
 
