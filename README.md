@@ -33,6 +33,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 06 - Efeito lightning em textos](#id06)
 * [Dia 07 - Preloader animado](#id07)
 * [Dia 08- Coração pulsando](#id08)
+* [Dia 09- Pendulo de Newton](#id09)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -112,7 +113,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * animations
 * nth-child ()
 
-##  Desafio dia 08- Coração pulsando <a name="id08"></a>
+##  Desafio dia 08 - Coração pulsando <a name="id08"></a>
 ![Dia 08- Coração pulsando](Gifs/day08.gif)
 
 [Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2008%20-%20Cora%C3%A7%C3%A3o%20pulsando)
@@ -122,6 +123,19 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * animations
 * ::before
 * ::after
+
+##  Desafio dia 09 - Pendulo de Newton <a name="id09"></a>
+![Dia 09 - Pendulo de Newton](Gifs/day09.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2008%20-%20Cora%C3%A7%C3%A3o%20pulsando)
+
+##### O que foi aplicado
+
+* animations
+* ::before
+* ::after
+* first-child
+* last-child
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
