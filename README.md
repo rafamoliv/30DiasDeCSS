@@ -127,7 +127,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 09 - Pendulo de Newton <a name="id09"></a>
 ![Dia 09 - Pendulo de Newton](Gifs/day09.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2008%20-%20Cora%C3%A7%C3%A3o%20pulsando)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2009%20-%20Pendulo%20de%20Newton)
 
 ##### O que foi aplicado
 
