@@ -141,7 +141,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 10 - Animação de texto alternando <a name="id10"></a>
 ![Dia 10 - Animação de texto alternando](Gifs/day10.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2009%20-%20Pendulo%20de%20Newton)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2010%20-%20Anima%C3%A7%C3%A3o%20texto%20alternando)
 
 ##### O que foi aplicado
 
