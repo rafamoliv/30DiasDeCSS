@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(31, 25, 41);
+}
+
+h1 {
+    color: #FFF;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    align-items: center;
+}
+
+span::before {
+    content: '';
+    animation: word-swith 3s infinite;
+}
+
+@keyframes word-swith  {
+    0% {content: 'YEEES'}
+
+    50%{content: 'NOOO';}
+
+    100%{content: 'I Dont Know';}
+}

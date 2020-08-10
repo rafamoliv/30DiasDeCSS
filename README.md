@@ -34,6 +34,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 07 - Preloader animado](#id07)
 * [Dia 08- Coração pulsando](#id08)
 * [Dia 09- Pendulo de Newton](#id09)
+* [Dia 10 - Animação de texto alternando](#id10)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -136,6 +137,16 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * ::after
 * first-child
 * last-child
+
+##  Desafio dia 10 - Animação de texto alternando <a name="id10"></a>
+![Dia 10 - Animação de texto alternando](Gifs/day10.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2009%20-%20Pendulo%20de%20Newton)
+
+##### O que foi aplicado
+
+* animations
+* ::before
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
