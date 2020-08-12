@@ -153,7 +153,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 11 - Botão com efeito hover <a name="id11"></a>
 ![Dia 11 - Botão com efeito hover](Gifs/day11.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2010%20-%20Anima%C3%A7%C3%A3o%20texto%20alternando)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2011%20-%20Bot%C3%A3o%20com%20efeito%20hover)
 
 ##### O que foi aplicado
 
@@ -166,7 +166,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 12 - Efeito de texto de preenchimento <a name="id12"></a>
 ![Dia 12 - Efeito de texto de preenchimento](Gifs/day12.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2010%20-%20Anima%C3%A7%C3%A3o%20texto%20alternando)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2012%20-%20Efeito%20de%20preenchimento%20ao%20passar%20o%20mouse)
 
 ##### O que foi aplicado
 
