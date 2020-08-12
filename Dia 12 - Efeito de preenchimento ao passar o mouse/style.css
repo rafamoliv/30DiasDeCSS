@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: sans-serif;
+    background-color: saddlebrown;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 75px;
+    color: #FFF;
+    position: relative;
+}
+
+h1::before {
+    content: "Desafio#12";
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color: rgb(151, 248, 255);
+    width: 0%;
+    overflow: hidden;
+    transition: linear 0.3s;
+}
+
+h1:hover::before {
+    width: 100%;
+}

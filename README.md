@@ -35,6 +35,8 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 08- Coração pulsando](#id08)
 * [Dia 09- Pendulo de Newton](#id09)
 * [Dia 10 - Animação de texto alternando](#id10)
+* [Dia 11 - Botão com efeito hover](#id11)
+* [Dia 12 - Efeito de texto de preenchimento](#id12)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -147,6 +149,30 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 * animations
 * ::before
+
+##  Desafio dia 11 - Botão com efeito hover <a name="id11"></a>
+![Dia 11 - Botão com efeito hover](Gifs/day11.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2010%20-%20Anima%C3%A7%C3%A3o%20texto%20alternando)
+
+##### O que foi aplicado
+
+* :hover
+* ::before
+* Overflow
+* Transições
+* z-index
+
+##  Desafio dia 12 - Efeito de texto de preenchimento <a name="id12"></a>
+![Dia 12 - Efeito de texto de preenchimento](Gifs/day12.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2010%20-%20Anima%C3%A7%C3%A3o%20texto%20alternando)
+
+##### O que foi aplicado
+
+* :hover
+* ::before
+* Transições
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
