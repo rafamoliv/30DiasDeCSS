@@ -37,6 +37,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 10 - Animação de texto alternando](#id10)
 * [Dia 11 - Botão com efeito hover](#id11)
 * [Dia 12 - Efeito de texto de preenchimento](#id12)
+* [Dia 13 - Loading com efeito](#id13)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -173,6 +174,16 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * :hover
 * ::before
 * Transições
+
+##  Desafio dia 13 - Loading com efeito <a name="id13"></a>
+![Dia 13 - Loading com efeito](Gifs/day13.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2012%20-%20Efeito%20de%20preenchimento%20ao%20passar%20o%20mouse)
+
+##### O que foi aplicado
+
+* animations
+* nth-child ()
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
