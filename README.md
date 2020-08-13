@@ -178,7 +178,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 13 - Loading com efeito <a name="id13"></a>
 ![Dia 13 - Loading com efeito](Gifs/day13.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2012%20-%20Efeito%20de%20preenchimento%20ao%20passar%20o%20mouse)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2013%20-%20Loading%20com%20efeito)
 
 ##### O que foi aplicado
 
