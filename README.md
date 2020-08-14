@@ -189,7 +189,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 14 - Loading com efeito <a name="id14"></a>
 ![Dia 14 - Fundo de texto animado](Gifs/day14.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2013%20-%20Loading%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2014%20-%20Fundo%20de%20texto%20animado)
 
 ##### O que foi aplicado
 
