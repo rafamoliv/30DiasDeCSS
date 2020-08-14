@@ -1,0 +1,26 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+	background-color: rgba(43, 2, 70, 0.363);
+}
+
+h1 {
+	font-size: 150px;
+	text-align: center;
+	text-transform: uppercase;
+	background: url(image.png);
+	-webkit-background-clip: text;
+	color: transparent;
+	animation: text-background 20s linear infinite;
+}
+
+@keyframes text-background {
+
+	from { background-position: 0 0 }
+
+	to { background-position: 100% 100% }
+
+} 
