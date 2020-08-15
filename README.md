@@ -39,6 +39,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 12 - Efeito de texto de preenchimento](#id12)
 * [Dia 13 - Loading com efeito](#id13)
 * [Dia 14 - Fundo de texto animado](#id14)
+* [Dia 15 - Texto flutuante](#id15)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -195,6 +196,16 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 * animations
 * background-clip
+
+##  Desafio dia 15 - Texto flutuante <a name="id15"></a>
+![Dia 15 - Texto flutuante](Gifs/day15.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2014%20-%20Fundo%20de%20texto%20animado)
+
+##### O que foi aplicado
+
+* animations
+* Transformação
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
