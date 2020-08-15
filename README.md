@@ -200,7 +200,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 15 - Texto flutuante <a name="id15"></a>
 ![Dia 15 - Texto flutuante](Gifs/day15.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2014%20-%20Fundo%20de%20texto%20animado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2015%20-%20Texto%20flutuante)
 
 ##### O que foi aplicado
 
