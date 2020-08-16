@@ -40,6 +40,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 13 - Loading com efeito](#id13)
 * [Dia 14 - Fundo de texto animado](#id14)
 * [Dia 15 - Texto flutuante](#id15)
+* [Dia 16 - Botão com efeito](#id16)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -206,6 +207,18 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 * animations
 * Transformação
+
+##  Desafio dia 16 - Botão com efeito <a name="id16"></a>
+![Dia 16 - Botão com efeito](Gifs/day16.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2015%20-%20Texto%20flutuante)
+
+##### O que foi aplicado
+
+* Transições
+* Transformação
+* ::before
+* :hover
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
