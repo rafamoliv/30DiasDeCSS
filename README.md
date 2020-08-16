@@ -211,7 +211,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 16 - Botão com efeito <a name="id16"></a>
 ![Dia 16 - Botão com efeito](Gifs/day16.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2015%20-%20Texto%20flutuante)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2016%20-%20Bot%C3%A3o%20com%20efeito)
 
 ##### O que foi aplicado
 
