@@ -41,6 +41,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 14 - Fundo de texto animado](#id14)
 * [Dia 15 - Texto flutuante](#id15)
 * [Dia 16 - Botão com efeito](#id16)
+* [Dia 17 - Loading animado](#id17)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -219,6 +220,15 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * Transformação
 * ::before
 * :hover
+
+##  Desafio dia 17 - Loading animado <a name="id17"></a>
+![Dia 16 - Loading animado](Gifs/day17.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2017%20-%20Loader%20animado)
+
+##### O que foi aplicado
+
+* animations
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
