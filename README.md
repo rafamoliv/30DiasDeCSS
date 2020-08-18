@@ -42,6 +42,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 15 - Texto flutuante](#id15)
 * [Dia 16 - Botão com efeito](#id16)
 * [Dia 17 - Loading animado](#id17)
+* [Dia 18 - Texto fumaçado](#id17)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -222,7 +223,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * :hover
 
 ##  Desafio dia 17 - Loading animado <a name="id17"></a>
-![Dia 16 - Loading animado](Gifs/day17.gif)
+![Dia 17 - Loading animado](Gifs/day17.gif)
 
 [Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2017%20-%20Loader%20animado)
 
@@ -233,11 +234,12 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 18 - Texto fumaçado <a name="id18"></a>
 ![Dia 18 - Texto fumaçado](Gifs/day18.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2017%20-%20Loader%20animado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2018%20-%20Texto%20esfuma%C3%A7ado)
 
 ##### O que foi aplicado
 
 * animations
+* nth-child ()
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
