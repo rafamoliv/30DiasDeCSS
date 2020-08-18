@@ -230,6 +230,15 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 * animations
 
+##  Desafio dia 18 - Texto fumaçado <a name="id18"></a>
+![Dia 18 - Texto fumaçado](Gifs/day18.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2017%20-%20Loader%20animado)
+
+##### O que foi aplicado
+
+* animations
+
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
 
