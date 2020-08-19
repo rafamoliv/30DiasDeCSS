@@ -42,7 +42,8 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 15 - Texto flutuante](#id15)
 * [Dia 16 - Botão com efeito](#id16)
 * [Dia 17 - Loading animado](#id17)
-* [Dia 18 - Texto fumaçado](#id17)
+* [Dia 18 - Texto fumaçado](#id18)
+* [Dia 19 - Efeitos de animação fundo de partículas](#id19)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -244,7 +245,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 19 - Efeitos de animação fundo de partículas <a name="id19"></a>
 ![Dia 19 - Efeitos de animação fundo de partículas](Gifs/day19.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2018%20-%20Texto%20esfuma%C3%A7ado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2019%20-%20Efeitos%20de%20anima%C3%A7%C3%A3o%20fundo%20de%20part%C3%ADculas)
 
 ##### O que foi aplicado
 
