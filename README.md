@@ -241,6 +241,17 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * animations
 * nth-child ()
 
+##  Desafio dia 19 - Efeitos de animação fundo de partículas <a name="id19"></a>
+![Dia 19 - Efeitos de animação fundo de partículas](Gifs/day19.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2018%20-%20Texto%20esfuma%C3%A7ado)
+
+##### O que foi aplicado
+
+* animations
+* Transformação
+* nth-child ()
+
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
 
