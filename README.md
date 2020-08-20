@@ -49,7 +49,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
 
-[Meu codigo](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2001%20-%20Imagens%20em%20camadas)
+[Meu codigo](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2001%20-%20Imagens%20em%20camadas)
 
 ##### O que foi aplicado
 
@@ -66,7 +66,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
 ![Dia 02 - Loader animado](Gifs/day02.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2002%20-%20Loader%20animado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2002%20-%20Loader%20animado)
 
 ##### O que foi aplicado
 
@@ -75,7 +75,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 03 - Mudança de cor de texto entre divs <a name="id03"></a>
 ![Dia 03 - Mudança de cor de texto entre divs](Gifs/day03.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2003%20-%20Mudan%C3%A7a%20de%20cor%20de%20texto%20entre%20divs)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2003%20-%20Mudan%C3%A7a%20de%20cor%20de%20texto%20entre%20divs)
 
 ##### O que foi aplicado
 
@@ -85,7 +85,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 04 - Botão com efeito <a name="id04"></a>
 ![Dia 04 - Botão com efeito](Gifs/day04.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2004%20-%20Bot%C3%A3o%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2004%20-%20Bot%C3%A3o%20com%20efeito)
 
 ##### O que foi aplicado
 
@@ -97,7 +97,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 05 - Efeito pulsar <a name="id05"></a>
 ![Dia 05 - Efeito pulsar](Gifs/day05.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2005%20-%20Efeito%20pulsar)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2005%20-%20Efeito%20pulsar)
 
 ##### O que foi aplicado
 
@@ -107,7 +107,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 06 - Efeito lightning em textos <a name="id06"></a>
 ![Dia 06 - Efeito lightning em textos](Gifs/day06.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2006%20-%20Efeito%20lightning%20em%20textos)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2006%20-%20Efeito%20lightning%20em%20textos)
 
 ##### O que foi aplicado
 
@@ -117,7 +117,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 07 - Preloader animado <a name="id07"></a>
 ![Dia 07 - Preloader animado](Gifs/day07.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2007%20-%20Preloader%20animado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2007%20-%20Preloader%20animado)
 
 ##### O que foi aplicado
 
@@ -127,7 +127,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 08 - Coração pulsando <a name="id08"></a>
 ![Dia 08- Coração pulsando](Gifs/day08.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2008%20-%20Cora%C3%A7%C3%A3o%20pulsando)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2008%20-%20Cora%C3%A7%C3%A3o%20pulsando)
 
 ##### O que foi aplicado
 
@@ -138,7 +138,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 09 - Pendulo de Newton <a name="id09"></a>
 ![Dia 09 - Pendulo de Newton](Gifs/day09.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2009%20-%20Pendulo%20de%20Newton)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2009%20-%20Pendulo%20de%20Newton)
 
 ##### O que foi aplicado
 
@@ -151,7 +151,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 10 - Animação de texto alternando <a name="id10"></a>
 ![Dia 10 - Animação de texto alternando](Gifs/day10.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2010%20-%20Anima%C3%A7%C3%A3o%20texto%20alternando)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2010%20-%20Anima%C3%A7%C3%A3o%20texto%20alternando)
 
 ##### O que foi aplicado
 
@@ -161,7 +161,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 11 - Botão com efeito hover <a name="id11"></a>
 ![Dia 11 - Botão com efeito hover](Gifs/day11.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2011%20-%20Bot%C3%A3o%20com%20efeito%20hover)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2011%20-%20Bot%C3%A3o%20com%20efeito%20hover)
 
 ##### O que foi aplicado
 
@@ -174,7 +174,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 12 - Efeito de texto de preenchimento <a name="id12"></a>
 ![Dia 12 - Efeito de texto de preenchimento](Gifs/day12.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2012%20-%20Efeito%20de%20preenchimento%20ao%20passar%20o%20mouse)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2012%20-%20Efeito%20de%20preenchimento%20ao%20passar%20o%20mouse)
 
 ##### O que foi aplicado
 
@@ -185,7 +185,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 13 - Loading com efeito <a name="id13"></a>
 ![Dia 13 - Loading com efeito](Gifs/day13.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2013%20-%20Loading%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2013%20-%20Loading%20com%20efeito)
 
 ##### O que foi aplicado
 
@@ -195,7 +195,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 14 - Loading com efeito <a name="id14"></a>
 ![Dia 14 - Fundo de texto animado](Gifs/day14.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2014%20-%20Fundo%20de%20texto%20animado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2014%20-%20Fundo%20de%20texto%20animado)
 
 ##### O que foi aplicado
 
@@ -205,7 +205,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 15 - Texto flutuante <a name="id15"></a>
 ![Dia 15 - Texto flutuante](Gifs/day15.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2015%20-%20Texto%20flutuante)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2015%20-%20Texto%20flutuante)
 
 ##### O que foi aplicado
 
@@ -215,7 +215,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 16 - Botão com efeito <a name="id16"></a>
 ![Dia 16 - Botão com efeito](Gifs/day16.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2016%20-%20Bot%C3%A3o%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2016%20-%20Bot%C3%A3o%20com%20efeito)
 
 ##### O que foi aplicado
 
@@ -227,7 +227,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 17 - Loading animado <a name="id17"></a>
 ![Dia 17 - Loading animado](Gifs/day17.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2017%20-%20Loader%20animado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2017%20-%20Loader%20animado)
 
 ##### O que foi aplicado
 
@@ -236,7 +236,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 18 - Texto fumaçado <a name="id18"></a>
 ![Dia 18 - Texto fumaçado](Gifs/day18.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2018%20-%20Texto%20esfuma%C3%A7ado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2018%20-%20Texto%20esfuma%C3%A7ado)
 
 ##### O que foi aplicado
 
@@ -246,7 +246,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 19 - Efeitos de animação fundo de partículas <a name="id19"></a>
 ![Dia 19 - Efeitos de animação fundo de partículas](Gifs/day19.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2019%20-%20Efeitos%20de%20anima%C3%A7%C3%A3o%20fundo%20de%20part%C3%ADculas)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2019%20-%20Efeitos%20de%20anima%C3%A7%C3%A3o%20fundo%20de%20part%C3%ADculas)
 
 ##### O que foi aplicado
 
@@ -257,7 +257,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 20 - Botão com efeito <a name="id20"></a>
 ![Dia 20 - Botão com efeito](Gifs/day20.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2020%20-%20Bot%C3%A3o%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2020%20-%20Bot%C3%A3o%20com%20efeito)
 
 ##### O que foi aplicado
 
