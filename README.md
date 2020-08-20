@@ -257,7 +257,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 20 - Botão com efeito <a name="id20"></a>
 ![Dia 20 - Botão com efeito](Gifs/day20.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2019%20-%20Efeitos%20de%20anima%C3%A7%C3%A3o%20fundo%20de%20part%C3%ADculas)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Dia%2020%20-%20Bot%C3%A3o%20com%20efeito)
 
 ##### O que foi aplicado
 
