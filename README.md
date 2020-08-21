@@ -45,6 +45,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 18 - Texto fumaçado](#id18)
 * [Dia 19 - Efeitos de animação fundo de partículas](#id19)
 * [Dia 20 - Botão com efeito](#id20)
+* [Dia 21 - Esferas quicando](#id21)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -265,6 +266,16 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * Transformação
 * ::before
 * :hover
+
+##  Desafio dia 21 - Esferas quicando <a name="id21"></a>
+![Dia 21 - Esferas quicando](Gifs/day21.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2020%20-%20Bot%C3%A3o%20com%20efeito)
+
+##### O que foi aplicado
+
+* animations
+* nth-child ()
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
