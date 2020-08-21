@@ -270,7 +270,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 21 - Esferas quicando <a name="id21"></a>
 ![Dia 21 - Esferas quicando](Gifs/day21.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2020%20-%20Bot%C3%A3o%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2021%20-%20Esferas%20quicando)
 
 ##### O que foi aplicado
 
