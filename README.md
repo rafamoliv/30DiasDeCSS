@@ -46,6 +46,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 19 - Efeitos de animação fundo de partículas](#id19)
 * [Dia 20 - Botão com efeito](#id20)
 * [Dia 21 - Esferas quicando](#id21)
+* [Dia 22 - Icones com efeito](#id22)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
