@@ -277,6 +277,18 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * animations
 * nth-child ()
 
+##  Desafio dia 22 - Icones com efeito <a name="id22"></a>
+![Dia 22 - Icones com efeito](Gifs/day22.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2021%20-%20Esferas%20quicando)
+
+##### O que foi aplicado
+
+* animations
+* :hover
+* ::before
+* ::after
+
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
 
