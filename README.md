@@ -280,7 +280,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 22 - Icones com efeito <a name="id22"></a>
 ![Dia 22 - Icones com efeito](Gifs/day22.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2021%20-%20Esferas%20quicando)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2022%20-%20Icones%20com%20efeito)
 
 ##### O que foi aplicado
 
