@@ -305,7 +305,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 24 - Preloader animado <a name="id24"></a>
 ![Dia 24 - Preloader animado](Gifs/day24.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2023%20-%20Bot%C3%A3o%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2024%20-%20Preloader%20animado)
 
 ##### O que foi aplicado
 
