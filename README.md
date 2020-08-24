@@ -48,6 +48,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 21 - Esferas quicando](#id21)
 * [Dia 22 - Icones com efeito](#id22)
 * [Dia 23 - Botão com efeito](#id23)
+* [Dia 24 - Preloader animado](#id24)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -300,6 +301,16 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 
 * transformação
 * :hover
+
+##  Desafio dia 24 - Preloader animado <a name="id24"></a>
+![Dia 24 - Preloader animado](Gifs/day24.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2023%20-%20Bot%C3%A3o%20com%20efeito)
+
+##### O que foi aplicado
+
+* nth-child ()
+* animations
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
