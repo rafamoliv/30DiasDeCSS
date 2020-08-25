@@ -316,7 +316,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 25 - checkbox animado <a name="id25"></a>
 ![Dia 25 - checkbox animado](Gifs/day25.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2024%20-%20Preloader%20animado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2025%20-%20checkbox%20animado)
 
 ##### O que foi aplicado
 
