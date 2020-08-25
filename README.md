@@ -49,6 +49,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 22 - Icones com efeito](#id22)
 * [Dia 23 - Botão com efeito](#id23)
 * [Dia 24 - Preloader animado](#id24)
+* [Dia 25 - checkbox animado](#id25)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -310,6 +311,16 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##### O que foi aplicado
 
 * nth-child ()
+* animations
+
+##  Desafio dia 25 - checkbox animado <a name="id25"></a>
+![Dia 25 - checkbox animado](Gifs/day25.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2024%20-%20Preloader%20animado)
+
+##### O que foi aplicado
+
+* ::before
 * animations
 
 ## Gostou da ideia? 
