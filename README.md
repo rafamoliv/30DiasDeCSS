@@ -327,7 +327,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 26 - Loading com efeito <a name="id26"></a>
 ![Dia 26 - Loading com efeito](Gifs/day26.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2025%20-%20checkbox%20animado)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2026%20-%20Loading%20com%20efeito)
 
 ##### O que foi aplicado
 
