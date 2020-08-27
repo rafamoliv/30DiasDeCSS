@@ -342,7 +342,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 27 - Efeito pulsar <a name="id27"></a>
 ![Dia 27 - Efeito pulsar](Gifs/day27.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2026%20-%20Loading%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2027%20-%20Efeito%20pulsar)
 
 ##### O que foi aplicado
 
@@ -353,7 +353,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 28 - cor do background mudando <a name="id28"></a>
 ![Dia 28 - cor do background mudando](Gifs/day28.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2026%20-%20Loading%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2028%20-%20cor%20do%20background%20mudando)
 
 ##### O que foi aplicado
 
@@ -362,7 +362,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 29 - Menu responsivo com Media Queries <a name="id29"></a>
 ![Dia 29 - Menu responsivo com Media Queries](Gifs/day29.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2026%20-%20Loading%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2029%20-%20Menu%20responsivo%20com%20Media%20Queries)
 
 ##### O que foi aplicado
 
@@ -371,7 +371,7 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 ##  Desafio dia 30 - Fogos de artificio <a name="id30"></a>
 ![Dia 30 - Fogos de artificio](Gifs/day30.gif)
 
-[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2026%20-%20Loading%20com%20efeito)
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2030%20-%20Fogos%20de%20artificio)
 
 ##### O que foi aplicado
 
