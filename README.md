@@ -32,8 +32,8 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 05 - Efeito pulsar](#id05)
 * [Dia 06 - Efeito lightning em textos](#id06)
 * [Dia 07 - Preloader animado](#id07)
-* [Dia 08- Coração pulsando](#id08)
-* [Dia 09- Pendulo de Newton](#id09)
+* [Dia 08 - Coração pulsando](#id08)
+* [Dia 09 - Pendulo de Newton](#id09)
 * [Dia 10 - Animação de texto alternando](#id10)
 * [Dia 11 - Botão com efeito hover](#id11)
 * [Dia 12 - Efeito de texto de preenchimento](#id12)
@@ -51,6 +51,10 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * [Dia 24 - Preloader animado](#id24)
 * [Dia 25 - checkbox animado](#id25)
 * [Dia 26 - Loading com efeito](#id26)
+* [Dia 27 - Efeito pulsar](#id27)
+* [Dia 28 - cor do background mudando](#id28)
+* [Dia 29 - Menu responsivo com Media Queries](#id29)
+* [Dia 30 - Fogos de artificio](#id30)
 
 ##  Desafio dia 01 - Imagem em camadas <a name="id01"></a>
 ![Dia 01 - Imagem em camadas](Gifs/day01.gif)
@@ -334,6 +338,47 @@ O desafio foi iniciado por mim no dia 01 de agosto e será feito um projetinho p
 * ::before
 * ::after
 * animations
+
+##  Desafio dia 27 - Efeito pulsar <a name="id27"></a>
+![Dia 27 - Efeito pulsar](Gifs/day27.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2026%20-%20Loading%20com%20efeito)
+
+##### O que foi aplicado
+
+* ::before
+* ::after
+* animations
+
+##  Desafio dia 28 - cor do background mudando <a name="id28"></a>
+![Dia 28 - cor do background mudando](Gifs/day28.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2026%20-%20Loading%20com%20efeito)
+
+##### O que foi aplicado
+
+* animations
+
+##  Desafio dia 29 - Menu responsivo com Media Queries <a name="id29"></a>
+![Dia 29 - Menu responsivo com Media Queries](Gifs/day29.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2026%20-%20Loading%20com%20efeito)
+
+##### O que foi aplicado
+
+* Media Queries
+
+##  Desafio dia 30 - Fogos de artificio <a name="id30"></a>
+![Dia 30 - Fogos de artificio](Gifs/day30.gif)
+
+[Meu código](https://github.com/rafamoliv/30DiasDeCSS/tree/master/Desafios/Dia%2026%20-%20Loading%20com%20efeito)
+
+##### O que foi aplicado
+
+* ::before
+* ::after
+* animations
+* nth-child ()
 
 ## Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
